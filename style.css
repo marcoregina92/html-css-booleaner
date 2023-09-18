@@ -78,15 +78,15 @@ ul {
     text-align: left;
  }
  
- th.cell-header{
+ th.celle-header{
      width: 25%;
  }
  
- .table-header{
+ .tabella-header{
     color: white;
     background-color: #20a9e5;
  }
  
- .colored-cells{
+ .colore-celle{
     background-color: #b1e5f2;
  }
