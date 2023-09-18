@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+ }
+
+ .container{
+    width: 1080px;
+    }
+ 
+
+div.logo > img{
+    height: 100%;
+    width: 180px;
+    margin-top: 20px;
+ }
+
+ div.logo {
+    height: 110px;
+    background-image: url(./img/pattern.png);
+    background-size: 35%;
+    background-color: #4ea0ff
+}
+
+.titolo-articolo {
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+a{
+
+    text-decoration: none;
+    color: #30afe6;
+    font-weight: bold;
+}
+
+
+.sottotitolo {
+    font-size: 20px;
+    margin-top: 50px;
+    color: grey;
+
+}
+
+
+.data-sottotitolo {
+    font-size: 12px;
+    margin-top: 50px;
+    color: grey;
+
+
+}
