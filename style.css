@@ -52,3 +52,41 @@ a{
 
 
 }
+
+.immagini-tim{
+    height: 100%;
+    margin: 10px;
+ }
+
+p{
+    font-size: 17px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+ }
+
+ul {
+    font-size: 17px;
+    margin-bottom: 30px;
+}
+ 
+ table{
+    width: 100%;
+    border-collapse: collapse;
+ }
+ 
+ tr{
+    text-align: left;
+ }
+ 
+ th.cell-header{
+     width: 25%;
+ }
+ 
+ .table-header{
+    color: white;
+    background-color: #20a9e5;
+ }
+ 
+ .colored-cells{
+    background-color: #b1e5f2;
+ }
