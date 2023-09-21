@@ -71,6 +71,7 @@ p{
 ul {
     font-size: 17px;
     margin-bottom: 30px;
+    margin: 16px;
 }
  
  table{
@@ -94,3 +95,18 @@ ul {
  .colore-celle{
     background-color: #b1e5f2;
  }
+
+ .immaginiFooter{
+    margin-bottom: 20px;
+    width: 250px;
+    height: 200px;
+    float: left;
+    
+}
+#primaFooter{
+    background-image: url(./img/monitor.jpg);
+}
+
+#secondaFooter{
+    background-image: url(./img/graph.jpg);
+}
